@@ -1,0 +1,1 @@
+Key.tabKey.tabKey.alt_l'\x01'Key.ctrl_lKey.backspace'b''i''k''e''1'Key.space'e''n''t''r''y''1'Key.space't''o''k''e''n''1'Key.media_volume_muteKey.space'c''h''e''c''k''e''d''.'Key.enterKey.tabKey.alt_l
